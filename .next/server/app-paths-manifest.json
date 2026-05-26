@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/admin/page": "app/dashboard/admin/page.js",
+  "/dashboard/student/page": "app/dashboard/student/page.js",
+  "/dashboard/supervisor/page": "app/dashboard/supervisor/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/research-proposal/page": "app/research-proposal/page.js",
+  "/student-registration/page": "app/student-registration/page.js",
+  "/success/page": "app/success/page.js",
+  "/supervisor-registration/page": "app/supervisor-registration/page.js"
+}

@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/dashboard/admin/page": "/dashboard/admin",
+  "/dashboard/student/page": "/dashboard/student",
+  "/dashboard/supervisor/page": "/dashboard/supervisor",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/research-proposal/page": "/research-proposal",
+  "/student-registration/page": "/student-registration",
+  "/success/page": "/success",
+  "/supervisor-registration/page": "/supervisor-registration"
+}
